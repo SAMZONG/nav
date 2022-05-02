@@ -3,7 +3,7 @@
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
   "loading": "random",
-  "showGithub": true,
+  "showGithub": false,
   "title": "发现导航",
   "description": "发现导航 - 精选实用导航网站",
   "keywords": "导航,实用工具,学习资源",
@@ -43,7 +43,7 @@
       "height": null
     }
   ],
-  "showLanguage": true,
+  "showLanguage": false,
   "showRate": false,
   "mirrorList": []
 }
