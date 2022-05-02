@@ -1,46 +1,3 @@
-
-<p align="center">
-  <a href="https://nav3.cn/?g">
-    <img src="src/assets/logo.png" width="130" />
-  </a>
-  <br />
-  <b>Discovery Navigation</b>
-  <p align="center">A purely static, powerful navigation website that supports SEO and online editing, I hope you will like it</p>
-  <p align="center">Built-in collection of up to 800+ high-quality websites to help you work, study and live</p>
-  <p align="center">
-    <a href="README_zh-CN.md">
-      <img src="https://img.shields.io/badge/lang-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-red.svg?longCache=true&style=flat-square">
-    </a>
-    <img src="https://img.shields.io/github/v/release/xjh22222228/nav" />
-    <a href="https://github.com/xjh22222228/nav/stargazers"><img src="https://img.shields.io/github/stars/xjh22222228/nav" alt="Stars"/></a>
-    <img alt="Angular" src="https://img.shields.io/static/v1.svg?label=&message=Angular11&style=flat-square&color=C82B38">
-    <img src="https://img.shields.io/github/license/xjh22222228/nav" />
-  </p>
-</p>
-
-<br />
-<br />
-
-
-## Preview
-**Themes**
-
-- [Sim online preview](https://nav3.cn/#/sim)
-- [Light online preview](https://nav3.cn/#/light)
-- [Side online preview](https://nav3.cn/#/side)
-- [App online preview](https://nav3.cn/#/app)
-
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/1.png)
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/2.png)
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/3.png)
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/4.png)
-![Preview](https://raw.githubusercontent.com/xjh22222228/public/gh-pages/nav/5.png)
-
-
-
-
-
-
 ## Features
 `Discovery Navigation The idea is to make it simple and convenient without relying on back-end services, without complicated configuration and database configuration concepts, so it can be used out of the box.
 
@@ -152,8 +109,6 @@ Thank you for your [contribution](https://github.com/xjh22222228/nav/issues), me
 <a href="https://github.com/setdiaoyong">
   <img src="https://avatars1.githubusercontent.com/u/62551864?s=460&v=4" width="30px" height="30px" />
 </a>
-
-
 
 
 
